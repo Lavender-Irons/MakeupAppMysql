@@ -1,0 +1,22 @@
+package info.lavenderdawn.controller;
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import info.lavenderdawn.dto.CollectionProduct;
+
+@Controller
+public class HomeController {
+
+	@GetMapping("/")
+	public String listProducts(Model model) {
+		
+		List<CollectionProduct>collectionProducts = productRepository.collectionProducts();
+		model.addAttribute("CollectionProduct", collectionProducts);
+		
+		return "main/home";
+	}
+}

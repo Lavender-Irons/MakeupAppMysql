@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+	<style>
+	body{
+		background-image: url('/image/add.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	</style>
+<nav th:replace="layouts :: navbar"></nav>
+	<br>
+
+	
+	<div class="container">
+		
+		
+		<form th:action="@{/collections/save}" th:object="${collection}"  method="POST">
+		
+		<!--  This will be used to bind to the collection that was clicked on (USED FOR UPDATES)-->
+			<input type="hidden" th:field="${collection.collectionId}"/>
+		
+		<div class="form-group row">
+			<input type="text" placeholder="Category" th:field="${collection.category}" >
+		</div>
+		
+			<button class="btn btn-info col-2" type="submit">Create Category</button>
+	
+		</form>
+	</div>
+</body>
+</html>

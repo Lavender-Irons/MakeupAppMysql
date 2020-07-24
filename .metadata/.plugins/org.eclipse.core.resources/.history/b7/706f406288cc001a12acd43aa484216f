@@ -1,0 +1,5 @@
+package info.lavenderdawn.controllers;
+
+public class ProductController {
+
+}

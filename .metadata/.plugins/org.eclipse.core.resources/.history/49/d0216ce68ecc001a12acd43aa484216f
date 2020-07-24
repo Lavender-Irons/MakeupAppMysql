@@ -1,0 +1,24 @@
+package info.lavenderdawn.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import info.lavenderdawn.entities.Collection;
+
+@Controller
+@RequestMapping("/collections")
+public class CollectionController {
+	
+	@GetMapping("/new")
+	public String displayCollectionForm(Model model) {
+		
+		Collection aCollection = new Collection();
+		model.addAttribute("collection", aCollection);
+		
+		return "new-collection";
+		
+	}
+
+}

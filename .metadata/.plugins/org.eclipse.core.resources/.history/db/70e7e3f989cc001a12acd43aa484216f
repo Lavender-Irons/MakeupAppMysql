@@ -1,0 +1,15 @@
+package info.lavenderdawn.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/products")
+public class ProductController {
+
+	@RequestMapping("/new")
+	public String displayProductForm() {
+		
+		return "new-product";
+	}
+}

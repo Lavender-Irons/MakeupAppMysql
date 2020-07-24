@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+	<style>
+	body{
+		background-image: url('/image/about.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	</style>
+<nav th:replace="layouts :: navbar"></nav>
+	
+	<br>
+		<div class="container">
+			<h3>Products Directory</h3>
+			<hr>
+			
+			<!-- add new product button -->
+			
+			<form action="@{/products/save}" th:object="${product}" method="POST">
+				
+				<div class="btn btn-primary btn-sm mb-3">
+				Add Product
+			
+			</a>
+			<br>
+			
+			<table class="table table-bordered table-striped">
+				<thead class="thead-dark">
+					<tr>
+						<th>Name</th>
+						<th>Brand</th>
+						<th>Color</th>
+						<th>Cost</th>
+						<th>Amount</th>
+						<th>Rating</th>
+						<th>Action</th>	
+					</tr>
+				</thead>
+				<tbody>
+					<tr th:each="aProduct : ${products}">
+						<td th:text="${aProduct.name}"/>
+						<td th:text="${aProduct.brand}"/>
+						<td th:text="${aProduct.color}"/>
+						<td th:text="${aProduct.cost}"/>
+						<td th:text="${aProduct.amount}"/>
+						<td th:text="${aProduct.rating}"/>				
+						<td>	
+							<a th:href="@{/products/update(id=${aProduct.productId})}"
+								class="btn btn-info btn-sm">
+								Update
+							</a>	
+							<a th:href="@{/products/delete(id=${aProduct.productId})}"
+								class="btn btn-danger btn-sm"
+								onClick="if (!(confirm('Are you sure you want to delete this product?'))) return false">
+								Delete
+							</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		</form>
+		</div>
+	</body>
+</html>

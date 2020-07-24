@@ -1,0 +1,12 @@
+package info.lavenderdawn.dao;
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+
+import info.lavenderdawn.entites.Product;
+
+public interface ProductRepository extends CrudRepository<Product, Long>{
+
+	public List<Product>findAll();
+}

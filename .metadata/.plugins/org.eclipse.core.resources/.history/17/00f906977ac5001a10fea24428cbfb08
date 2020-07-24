@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+	<nav th:replace="layouts :: navbar"></nav>
+	
+<body>
+    <div class="container">
+    <form action="/product/save" method="post">
+    	<input type="text" placeholder="Product Name" th:field="${product.name}">
+    	<input type="text" placeholder="Product Brand" th:field="${product.brand}">
+    	<input type="text" placeholder="Product Color" th:field="${product.color}">
+    	<input type="text" placeholder="Product Cost" th:field="${product.cost}">
+    	<input type="text" placeholder="Product Amoun" th:field="${product.amount}">
+    	<input type="text" placeholder="Product Rating" th:field="${product.rating}">
+    	
+    	<button type="submit">Create Product</button>
+    </form>
+   </div>
+
+</body>
+</html>

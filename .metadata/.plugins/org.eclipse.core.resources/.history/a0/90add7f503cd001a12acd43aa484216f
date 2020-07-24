@@ -1,0 +1,42 @@
+package info.lavenderdawn.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class Collection {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private long collectionId;
+	private String category;
+	
+	public Collection() {
+		
+	}
+
+	public long getCollectionId() {
+		return collectionId;
+	}
+
+	public void setCollectionId(long collectionId) {
+		this.collectionId = collectionId;
+	}
+
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
+	public Collection(String category) {
+		super();
+		this.category = category;
+	}
+	
+	
+}

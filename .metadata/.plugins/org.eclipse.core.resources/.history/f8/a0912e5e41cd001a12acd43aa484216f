@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+	<style>
+	body{
+		background-image: url('/image/about.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	</style>
+<nav th:replace="layouts :: navbar"></nav>
+	
+	<br>
+		<div class="container">
+			
+			<!-- add new product button -->
+			
+			<form th:action="@{/products/save}" th:object="${product}" method="POST">
+		
+			<!--  This will be used to bind to the product that was clicked on (USED FOR UPDATES)-->
+			<input type="hidden" th:field="${product.productId}"/>
+		
+				    <div class="form-group row">
+				    	<input type="text" placeholder="Product Name" th:field="${product.name}">
+				    	<input type="text" placeholder="Product Brand" th:field="${product.brand}">
+				    	<input type="text" placeholder="Product Color" th:field="${product.color}">
+				    	<input type="text" placeholder="Product Cost" th:field="${product.cost}">
+				    	<input type="text" placeholder="Product Amoun" th:field="${product.amount}">
+				    	<input type="text" placeholder="Product Rating" th:field="${product.rating}">
+				    </div>
+					
+			<button class="btn btn-info col-2" type="submit">Create Product</button>
+		</form>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,38 @@
+package info.lavenderdawn.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import info.lavenderdawn.dao.CollectionRepository;
+import info.lavenderdawn.entities.Collection;
+
+@Controller
+@RequestMapping("/collections")
+public class CollectionController {
+	
+	@Autowired
+	CollectionRepository collectionRepository;
+	
+	
+	@GetMapping("/new")
+	public String displayCollectionForm(Model model) {
+		
+		Collection aCollection = new Collection();
+		model.addAttribute("collection", aCollection);
+		
+		return "new-collection";
+		
+	}
+
+	@PostMapping("/save")
+	public String createCollection(Collection collection, Model model) {
+		
+		collectionRepository.save(collection);
+		
+		return "redirect:/collections/new";
+	}
+}

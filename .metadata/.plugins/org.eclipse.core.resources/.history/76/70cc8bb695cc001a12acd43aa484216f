@@ -1,0 +1,5 @@
+package info.lavenderdawn.dto;
+
+public interface CollectionProduct {
+
+}

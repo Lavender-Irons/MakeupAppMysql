@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+	<nav th:replace="layouts :: navbar"></nav>
+	
+	
+<body>
+	<style>
+	body{
+		background-image: url('/image/home.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	</style>
+	
+	<h3>Main Dashboard</h3>
+	
+		<hr>
+
+	
+	<div class="container">
+		<h4> Current Products </h4>
+		<div class="row">
+			<div class="col-md-6">
+				<table class="table table-bordered table-striped">
+					<thead class="thead-dark">
+								<tr> 
+									<th>Category</th>
+									<th>Name</th>
+									<th>Brand</th>
+									<th>Color</th>
+									<th>Cost</th>
+									<th>Amount</th>
+									<th>Rating</th>
+								</tr>
+					</thead>
+					<tbody>
+						<tr th:each="aCollectionProducts : ${CollectionProduct}">
+							<td th:text="${aCollectionProducts.category}"/>
+							<td th:text="${aCollectionProducts.name}"/>
+							<td th:text="${aCollectionProducts.brand}"/>
+							<td th:text="${aCollectionProducts.color}"/>
+							<td th:text="${aCollectionProducts.cost}"/>
+							<td th:text="${aCollectionProducts.amount}"/>
+							<td th:text="${aCollectionProducts.rating}"/>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>	
+	</div>
+</body>
+
+</html>

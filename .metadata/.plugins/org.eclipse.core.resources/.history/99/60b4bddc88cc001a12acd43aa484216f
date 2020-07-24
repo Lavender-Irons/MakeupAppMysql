@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" 
+    crossorigin="anonymous">
+    
+  </head>
+  
+  
+  <body>
+    <br>
+	
+	<div class="container">
+		<form action="/products/save"      method="POST">
+		
+
+			<input type="text" placeholder="Name" >
+			<input type="text" placeholder="Brand" >
+			<input type="text" placeholder="Color" >
+			<input type="text" placeholder="Cost" >
+			<input type="text" placeholder="Amount" >
+			<input type="text" placeholder="Rating" >
+			
+			<button type="submit">Product</button>
+			
+			
+			</form>
+		</div>
+  </body>
+</html>

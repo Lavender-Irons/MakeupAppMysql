@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" 
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" 
+    crossorigin="anonymous">
+    
+  </head>
+	    <br>
+			<h4>Current Products</h4>
+				<table>
+					<thead>
+						<tr>
+									<th>Category</th>
+									<th>Name</th>
+									<th>Brand</th>
+									<th>Color</th>
+									<th>Cost</th>
+									<th>Amount</th>
+									<th>Rating</th>
+						</tr>
+					</thead>
+					<tbody>
+							<tr th:each="aProduct : ${products}">
+								<td th:text="${aProduct.category}"/>
+								<td th:text="${aProduct.name}"/>
+								<td th:text="${aProduct.brand}"/>
+								<td th:text="${aProduct.color}"/>
+								<td th:text="${aProduct.cost}"/>
+								<td th:text="${aProduct.amount}"/>
+								<td th:text="${aProduct.rating}"/>
+							</tr>
+					</tbody>
+				</table>
+		</body>
+	</html>

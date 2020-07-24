@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+	<style>
+	body{
+		background-image: url('/image/add.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	</style>
+<nav th:replace="layouts :: navbar"></nav>
+	<br>
+
+	
+	<div class="container">
+		<form action="@{/products/save}" th:object="${product}"  method="POST">
+		
+
+			<input type="text" placeholder="Name" th:field="${product.name}" >
+			<input type="text" placeholder="Brand" th:field="${product.brand}" >
+			<input type="text" placeholder="Color" th:field="${product.color}" >
+			<input type="text" placeholder="Cost" th:field="${product.cost}" >
+			<input type="text" placeholder="Amount" th:field="${product.amount}" >
+			<input type="text" placeholder="Rating" th:field="${product.rating}" >
+			
+			<button type="submit">Create Product</button>
+			
+			
+			</form>
+		</div>
+  </body>
+</html>
