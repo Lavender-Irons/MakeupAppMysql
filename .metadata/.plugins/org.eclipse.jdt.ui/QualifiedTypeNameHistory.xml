@@ -9,17 +9,24 @@
 <fullyQualifiedTypeName name="info.lavenderdawn.controller.CollectionProduct"/>
 <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
 <fullyQualifiedTypeName name="javax.activation.DataSource"/>
-<fullyQualifiedTypeName name="javax.sql.DataSource"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
 <fullyQualifiedTypeName name="info.lavenderdawn.entites.Collection"/>
 <fullyQualifiedTypeName name="info.lavenderdawn.controller.ProductController"/>
 <fullyQualifiedTypeName name="info.lavenderdawn.dao.ProductRepository"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.ForeignKey"/>
 <fullyQualifiedTypeName name="info.lavenderdawn.dto.CollectionProduct"/>
 <fullyQualifiedTypeName name="info.lavenderdawn.entities.Product"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="org.springframework.security.crypto.password.NoOpPasswordEncoder"/>
 </qualifiedTypeNameHistroy>

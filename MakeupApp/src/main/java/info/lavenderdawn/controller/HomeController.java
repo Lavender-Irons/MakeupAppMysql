@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import info.lavenderdawn.dao.ProductRepository;
 import info.lavenderdawn.dto.CollectionProduct;
+import info.lavenderdawn.services.ProductService;
 
 @Controller
 public class HomeController {
@@ -16,6 +17,9 @@ public class HomeController {
 	
 	@Autowired
 	ProductRepository productRepository;
+	
+	@Autowired
+	ProductService productService;
 
 	@GetMapping("/")
 	public String listProducts(Model model) {
@@ -23,9 +27,8 @@ public class HomeController {
 		List<CollectionProduct>collectionProducts = productRepository.collectionProducts();
 		model.addAttribute("CollectionProduct", collectionProducts);
 		
-		
 		return "main/home";
 	}
-
+	
 }
 

@@ -1,0 +1,5 @@
+package info.lavenderdawn.logging;
+
+public class ApplicationLoggerAspect {
+
+}

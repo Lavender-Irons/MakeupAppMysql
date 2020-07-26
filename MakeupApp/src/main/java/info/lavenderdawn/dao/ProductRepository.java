@@ -18,7 +18,7 @@ public interface ProductRepository extends CrudRepository<Product, Long>{
 	@Query(nativeQuery=true, value="SELECT collection.category, product.name, product.brand, product.color, product.cost, product.amount, product.rating " + 
 			"FROM collection " + 
 			"JOIN product " + 
-			"ON collection_id=product_id;")
+			"ON collection_id = product_id")
 	public List<CollectionProduct> collectionProducts();
 
 	public Product findByProductId(long theId);

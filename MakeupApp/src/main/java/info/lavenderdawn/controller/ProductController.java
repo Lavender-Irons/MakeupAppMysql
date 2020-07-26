@@ -11,25 +11,25 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import info.lavenderdawn.dao.CollectionRepository;
-import info.lavenderdawn.dao.ProductRepository;
 import info.lavenderdawn.entities.Collection;
 import info.lavenderdawn.entities.Product;
+import info.lavenderdawn.services.CollectionService;
+import info.lavenderdawn.services.ProductService;
 
 @Controller
 @RequestMapping("/products")
 public class ProductController {
 
 	@Autowired
-	ProductRepository productRepository;
+	ProductService productService;
 	
 	@Autowired
-	CollectionRepository collectionRepository;
+	CollectionService collectionService;
 	
 	@GetMapping
 	public String displayProducts(Model model) {
 		
-		List<Product> products = productRepository.findAll();
+		List<Product> products = productService.getAll();
 		model.addAttribute("products", products);
 		
 		return "products/list-products";
@@ -40,7 +40,7 @@ public class ProductController {
 	public String displayProductForm(Model model) {
 		
 		Product aProduct = new Product();
-		List<Collection>collections=collectionRepository.findAll();
+		Iterable<Collection>collections=collectionService.getAll();
 		
 		model.addAttribute("product", aProduct);
 		model.addAttribute("allCollections", collections);
@@ -51,27 +51,28 @@ public class ProductController {
 	@PostMapping("/save")
 	public String createProduct(Product product, BindingResult bindingResult, @RequestParam List<Long>collections,  Model model) {
 		
-		productRepository.save(product);
+		productService.save(product);
 		
 		return "redirect:/products";
 	}
 	
-	@GetMapping("/update")
-	public String displayProductUpdateForm(@RequestParam("id")long theId, Model model) {
+		@GetMapping("/update")
+		public String displayProductUpdateForm(@RequestParam("id") long theId, Model model) {
+			
+			Product thePro = productService.findByProductId(theId);
+			
+			model.addAttribute("product", thePro);
+			
+			
+			return "products/new-product";
+		}
 		
-		Product thePro = productRepository.findByProductId(theId);
-		model.addAttribute("product", thePro);
-		
-		return "products/new-product";
-	}
-	
-	@GetMapping("delete")
-	public String deleteProduct(@RequestParam("id") long theId, Model model) {
-		
-		Product thePro = productRepository.findByProductId(theId);
-		productRepository.delete(thePro);
-		
-		return "redirect:/products";
-	}
+		@GetMapping("delete")
+		public String deleteProduct(@RequestParam("id") long theId, Model model) {
+			Product thePro = productService.findByProductId(theId);
+			productService.delete(thePro);
+			return "redirect:/products";
+		}
+
 }
 	

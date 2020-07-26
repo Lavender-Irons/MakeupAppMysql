@@ -7106,3 +7106,1204 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2020-07-23 19:42:34,699 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
 2020-07-23 19:53:07,752 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-23 19:53:07,757 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 19:53:07,762 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-23 19:53:07,774 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 19:53:07,774 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:07:33,226 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:07:33,226 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 20:07:33,227 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:07:33,242 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:07:33,242 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:08:48,322 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:08:48,322 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 20:08:48,322 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:08:48,331 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:08:48,331 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:13:13,619 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:13,623 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:13:13,630 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2020-07-23 20:13:13,639 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:13,639 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:13:17,693 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:17,698 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:13:17,702 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2020-07-23 20:13:17,706 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:17,706 [Worker-259: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:13:24,749 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:24,749 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 20:13:24,750 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 20:13:24,753 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:13:24,753 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:22:22,789 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:22:22,793 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:22:22,797 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:22:22,801 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:22:22,801 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:22:46,397 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:22:46,400 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:22:46,405 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:22:46,410 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:22:46,410 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:27:50,455 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:27:50,458 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:27:50,461 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:27:50,465 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:27:50,465 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:28:18,625 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:28:18,629 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:28:18,633 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:28:18,638 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:28:18,638 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:31:08,352 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:31:08,355 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:31:08,358 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:31:08,360 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:31:08,360 [Worker-268: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:32:35,686 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:32:35,689 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:32:35,693 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:32:35,696 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:32:35,696 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:32:48,213 [Worker-269: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:32:48,225 [Worker-269: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:32:48,235 [Worker-269: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:32:48,241 [Worker-269: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:32:48,242 [Worker-269: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:34:55,046 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:34:55,049 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:34:55,053 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:34:55,057 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:34:55,057 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:37:25,776 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:37:25,787 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:37:25,795 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:37:25,801 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:37:25,802 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:37:43,876 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:37:43,878 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:37:43,882 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:37:43,885 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:37:43,885 [Worker-258: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:41:34,873 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:41:34,876 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:41:34,880 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 20:41:34,886 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:41:34,887 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 20:41:51,548 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:41:51,548 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 20:41:51,549 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 20:41:51,553 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 20:41:51,553 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:18:27,908 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:18:27,909 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 21:18:27,909 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:18:27,913 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:18:27,913 [Worker-256: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:19:12,594 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:19:12,594 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 21:19:12,594 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:19:12,598 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:19:12,598 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:24:51,398 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:24:51,398 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 21:24:51,398 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:24:51,401 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:24:51,401 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:25:24,833 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:25:24,833 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 21:25:24,833 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:25:24,836 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:25:24,836 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:27:29,025 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:27:29,026 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 21:27:29,026 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:27:29,029 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:27:29,029 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:31:16,943 [Worker-273: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-23 21:31:20,098 [Worker-273: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: info.lavenderdawn:MakeupApp:0.0.1-SNAPSHOT @ C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\pom.xml.
+2020-07-23 21:31:22,049 [Worker-273: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MakeupApp/src/main/java
+2020-07-23 21:31:22,049 [Worker-273: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MakeupApp/src/main/resources
+2020-07-23 21:31:22,050 [Worker-273: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MakeupApp/src/main/resources
+2020-07-23 21:31:22,050 [Worker-273: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MakeupApp/src/test/java
+2020-07-23 21:31:22,286 [Worker-273: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-07-23 21:31:22,872 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:31:22,874 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:31:22,890 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 21:31:23,066 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:31:23,067 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:36:33,510 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:36:33,514 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:36:33,520 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 21:36:33,525 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:36:33,525 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 21:43:24,250 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:43:24,256 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 21:43:24,262 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 21:43:24,267 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 21:43:24,267 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:03:22,824 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:03:22,828 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:03:22,836 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 22:03:22,843 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:03:22,843 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:06:57,999 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:06:58,003 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:06:58,009 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 22:06:58,015 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:06:58,015 [Worker-276: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:57:07,573 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:57:07,574 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 22:57:07,574 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:57:07,585 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:57:07,585 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:58:31,908 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:58:31,908 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 22:58:31,908 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:58:31,913 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:58:31,913 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:58:50,367 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:58:50,371 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:58:50,376 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 22:58:50,390 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:58:50,391 [Worker-267: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 22:59:22,015 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:59:22,016 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 22:59:22,016 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 22:59:22,022 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 22:59:22,022 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:01:51,905 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:01:51,906 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:01:51,906 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:01:51,944 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:01:51,944 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:02:13,165 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:02:13,165 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:02:13,166 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:02:13,168 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:02:13,168 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:03:53,500 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:03:53,506 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:03:53,511 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 23:03:53,515 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:03:53,515 [Worker-281: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:08:32,432 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:08:32,435 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:08:32,440 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 23:08:32,444 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:08:32,444 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:09:00,205 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:09:00,208 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:09:00,212 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 23:09:00,215 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:09:00,215 [Worker-275: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:09:17,592 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:09:17,595 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:09:17,600 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-23 23:09:17,603 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:09:17,604 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:11:33,865 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:11:33,865 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:11:33,866 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:11:33,872 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:11:33,872 [Worker-270: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:12:08,596 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:12:08,596 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:12:08,596 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:12:08,601 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:12:08,601 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:13:05,362 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:13:05,364 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:13:05,364 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:13:05,367 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:13:05,367 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:13:31,560 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:13:31,561 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:13:31,561 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:13:31,564 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:13:31,564 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:14:13,798 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:14:13,798 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:14:13,798 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:14:13,803 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:14:13,803 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-23 23:15:15,608 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:15:15,609 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-23 23:15:15,609 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-23 23:15:15,613 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-23 23:15:15,614 [Worker-280: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:34:02,997 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:34:03,014 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:34:03,022 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 10:34:03,033 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:34:03,033 [Worker-287: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:38:19,023 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:38:19,024 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 10:38:19,025 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:38:19,035 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:38:19,035 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:39:09,249 [Worker-261: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:39:09,252 [Worker-261: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:39:09,256 [Worker-261: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 10:39:09,260 [Worker-261: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:39:09,260 [Worker-261: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:40:35,075 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:40:35,078 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:40:35,082 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 10:40:35,087 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:40:35,087 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:40:48,947 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:40:48,949 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:40:48,953 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 10:40:48,956 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:40:48,957 [Worker-284: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 10:41:55,299 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:41:55,300 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 10:41:55,300 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 10:41:55,303 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 10:41:55,303 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:09:12,148 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:09:12,149 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:09:12,150 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:09:12,152 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:09:12,152 [Worker-288: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:12:59,281 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:12:59,281 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:12:59,282 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:12:59,284 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:12:59,284 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:13:19,439 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:13:19,439 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:13:19,440 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:13:19,443 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:13:19,444 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:13:41,609 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:13:41,610 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:13:41,612 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:13:41,614 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:13:41,614 [Worker-286: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:14:06,000 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:14:06,001 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:14:06,003 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:14:06,005 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:14:06,005 [Worker-289: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:14:41,266 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:14:41,266 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-24 11:14:41,269 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:14:41,270 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:14:41,270 [Worker-249: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:16:38,020 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:16:38,020 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 11:16:38,022 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:16:38,023 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:16:38,023 [Worker-265: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:22:16,980 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:22:16,980 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-24 11:22:16,985 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 11:22:16,988 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:22:16,988 [Worker-300: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:24:42,062 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-24 11:24:55,935 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:24:55,941 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 11:24:55,979 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 11:24:56,262 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 11:24:56,262 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 11:39:59,337 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-24 12:12:52,630 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 12:12:52,637 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 12:12:52,663 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 12:12:52,678 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 12:12:52,678 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 13:49:11,521 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-24 18:55:19,698 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-24 18:59:07,360 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 18:59:07,400 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 18:59:07,445 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 18:59:07,459 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 18:59:07,459 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 18:59:55,530 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 18:59:55,539 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 18:59:55,552 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 18:59:55,558 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 18:59:55,559 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:00:27,073 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:00:27,080 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:00:27,132 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:00:27,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:00:27,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:08:22,204 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:08:22,208 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:08:22,229 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:08:22,234 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:08:22,234 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:09:32,650 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: info.lavenderdawn:MakeupApp:0.0.1-SNAPSHOT @ C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\pom.xml.
+2020-07-24 19:09:34,604 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:09:34,608 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 19:09:34,609 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 19:09:34,611 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:09:34,612 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:09:37,113 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:09:37,118 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:09:37,169 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:09:37,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:09:37,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:10:03,529 [Worker-17: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:10:03,531 [Worker-17: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 19:10:03,536 [Worker-17: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 19:10:03,542 [Worker-17: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:10:03,542 [Worker-17: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:14:51,772 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:14:51,779 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:14:51,789 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:14:51,797 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:14:51,797 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:15:19,344 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:15:19,350 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:15:19,372 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:15:19,378 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:15:19,379 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:24:28,564 [Worker-24: Launching MakeupApp - MakeupAppApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 19:24:28,581 [Worker-24: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:24:28,587 [Worker-24: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:24:28,603 [Worker-24: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:24:28,612 [Worker-24: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:24:28,613 [Worker-24: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:29:50,146 [Worker-19: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 19:29:50,151 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:29:50,156 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:29:50,164 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:29:50,168 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:29:50,168 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:38:36,626 [Worker-44: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 19:38:36,630 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:38:36,636 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:38:36,647 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:38:36,655 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:38:36,655 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 19:38:51,846 [Worker-42: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 19:38:51,849 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:38:51,852 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 19:38:51,861 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 19:38:51,866 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 19:38:51,867 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:02:38,108 [Worker-49: Launching MakeupApp - MakeupAppApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:02:38,116 [Worker-49: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:02:38,120 [Worker-49: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:02:38,132 [Worker-49: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:02:38,136 [Worker-49: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:02:38,137 [Worker-49: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:07:12,284 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:07:16,316 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: info.lavenderdawn:MakeupApp:0.0.1-SNAPSHOT @ C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\pom.xml.
+2020-07-24 20:07:18,108 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:07:18,495 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:07:18,498 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:07:18,498 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:07:18,500 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:07:18,500 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:08:27,335 [Worker-57: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:08:27,342 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:08:27,343 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:08:27,362 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:08:27,366 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:08:27,366 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:10:28,198 [Worker-57: Launching MakeupApp - MakeupAppApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:10:28,203 [Worker-57: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:10:28,208 [Worker-57: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:10:28,238 [Worker-57: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:10:28,247 [Worker-57: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:10:28,248 [Worker-57: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:12:00,725 [Worker-53: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:12:00,730 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:12:00,734 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:12:00,743 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:12:00,747 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:12:00,747 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:13:02,475 [Worker-58: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:13:02,480 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:13:02,485 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:13:02,492 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:13:02,497 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:13:02,497 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:13:59,585 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:13:59,589 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:13:59,593 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:13:59,604 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:13:59,610 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:13:59,611 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:16:10,068 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:16:10,073 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:10,074 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:16:10,076 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:16:10,078 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:10,078 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:16:15,188 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:16:15,192 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:15,192 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:16:15,195 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:16:15,199 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:15,199 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:16:35,945 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:16:35,950 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:35,950 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:16:35,952 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:16:35,953 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:16:35,954 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:17:11,672 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:17:11,676 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:17:11,676 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:17:11,678 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:17:11,680 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:17:11,680 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:18:25,272 [Worker-66: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:18:25,274 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:18:25,274 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:18:25,276 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:18:25,277 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:18:25,277 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:19:01,124 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:19:01,128 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:19:01,129 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:19:01,131 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:19:01,134 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:19:01,134 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:19:46,511 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:19:46,515 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:19:46,515 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:19:46,517 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:19:46,519 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:19:46,519 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:20:45,614 [Worker-67: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:20:45,618 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:20:45,619 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:20:45,622 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:20:45,624 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:20:45,624 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:21:40,872 [Worker-72: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:21:40,950 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:21:40,950 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:21:40,953 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:21:40,955 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:21:40,956 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:21:57,837 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:21:57,846 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:21:57,846 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 20:21:57,848 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 20:21:57,851 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:21:57,852 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:24:02,351 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:24:02,354 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:24:02,356 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:24:02,364 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:24:02,368 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:24:02,368 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:25:48,117 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:25:48,119 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:25:48,122 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:25:48,130 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:25:48,135 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:25:48,135 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:26:19,290 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:26:19,293 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:26:19,297 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:26:19,304 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:26:19,309 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:26:19,309 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:26:33,008 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:26:33,012 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:26:33,017 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:26:33,026 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:26:33,030 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:26:33,031 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:28:12,982 [Worker-72: Launching MakeupApp - MakeupAppApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:28:12,986 [Worker-72: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:28:12,994 [Worker-72: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:28:13,007 [Worker-72: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:28:13,013 [Worker-72: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:28:13,014 [Worker-72: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:49:55,312 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:49:55,321 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:49:55,327 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:49:55,346 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:49:55,356 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:49:55,356 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:52:23,302 [Worker-86: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:52:23,307 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:52:23,313 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:52:23,327 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:52:23,335 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:52:23,336 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:52:51,116 [Worker-80: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:52:51,120 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:52:51,123 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:52:51,132 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:52:51,136 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:52:51,137 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:59:05,768 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:59:05,772 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:59:05,776 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:59:05,785 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:59:05,792 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:59:05,792 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 20:59:37,827 [Worker-85: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 20:59:37,830 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:59:37,833 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 20:59:37,841 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 20:59:37,845 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 20:59:37,845 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:01:02,307 [Worker-93: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:01:02,317 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:01:02,326 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:01:02,344 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:01:02,351 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:01:02,352 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:02:19,410 [Worker-94: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:02:19,413 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:02:19,416 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:02:19,423 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:02:19,427 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:02:19,428 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:07:33,630 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:07:33,641 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:07:33,646 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:07:33,664 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:07:33,673 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:07:33,674 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:09:42,446 [Worker-103: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:09:42,452 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:09:42,457 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:09:42,473 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:09:42,479 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:09:42,479 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:10:15,175 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:10:15,178 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:10:15,181 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:10:15,189 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:10:15,192 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:10:15,192 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:11:13,553 [Worker-104: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:11:13,556 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:11:13,559 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:11:13,567 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:11:13,570 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:11:13,571 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:12:43,749 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:12:43,751 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:12:43,754 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:12:43,763 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:12:43,767 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:12:43,767 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:13:06,554 [Worker-107: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:13:06,557 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:13:06,560 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:13:06,571 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:13:06,575 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:13:06,575 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:13:24,272 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:13:24,277 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:13:24,281 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:13:24,305 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 21:13:24,311 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:13:24,312 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:16:47,283 [Worker-100: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:16:47,287 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:16:47,288 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:16:47,289 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:16:47,298 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:16:47,298 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:24:49,433 [Worker-109: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:24:49,439 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:24:49,441 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:24:49,455 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-24 21:24:49,458 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:24:49,458 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:25:33,566 [Worker-105: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:25:33,570 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:25:33,574 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:25:33,581 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-24 21:25:33,584 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:25:33,585 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:25:41,258 [Worker-106: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:25:41,261 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:25:41,264 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:25:41,270 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-24 21:25:41,273 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:25:41,273 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:26:50,846 [Worker-110: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:26:50,850 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:26:50,855 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:26:50,863 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-24 21:26:50,866 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:26:50,866 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:29:11,801 [Worker-111: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:29:11,804 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:29:11,804 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:29:11,805 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:29:11,809 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:29:11,809 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:31:22,357 [Worker-111: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:31:22,359 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:31:22,360 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:31:22,360 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:31:22,363 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:31:22,363 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:34:45,384 [Worker-100: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:34:45,387 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:34:45,390 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 21:34:45,399 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-24 21:34:45,402 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:34:45,402 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:43:46,641 [Worker-119: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:43:46,678 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:43:46,679 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:43:46,679 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:43:46,691 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:43:46,691 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:44:02,737 [Worker-119: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:44:02,741 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:44:02,741 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:44:02,742 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:44:02,746 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:44:02,746 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:45:02,641 [Worker-124: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:45:02,645 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:45:02,645 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:45:02,646 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:45:02,651 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:45:02,651 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:46:33,959 [Worker-127: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:46:33,964 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:46:33,964 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:46:33,965 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:46:33,970 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:46:33,970 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:47:38,734 [Worker-120: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:47:38,740 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:47:38,741 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:47:38,741 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:47:38,746 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:47:38,746 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:48:38,390 [Worker-132: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:48:38,393 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:48:38,393 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:48:38,393 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:48:38,397 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:48:38,397 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:48:55,988 [Worker-128: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:48:55,991 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:48:55,993 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:48:55,993 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:48:55,998 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:48:55,998 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:49:37,922 [Worker-119: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:49:37,926 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:49:37,927 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:49:37,928 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:49:37,934 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:49:37,934 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:50:01,906 [Worker-119: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:50:01,912 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:50:01,912 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:50:01,914 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:50:01,921 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:50:01,921 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:50:36,743 [Worker-132: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:50:36,748 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:50:36,749 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:50:36,749 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:50:36,754 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:50:36,755 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:51:05,300 [Worker-132: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:51:05,304 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:51:05,304 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:51:05,304 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:51:05,309 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:51:05,309 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:51:43,427 [Worker-120: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:51:43,434 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:51:43,434 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:51:43,435 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:51:43,438 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:51:43,438 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:56:39,637 [Worker-137: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:56:39,641 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:56:39,641 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:56:39,642 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:56:39,646 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:56:39,646 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:57:30,667 [Worker-138: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:57:30,672 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:57:30,672 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:57:30,674 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:57:30,679 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:57:30,679 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 21:58:24,304 [Worker-144: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 21:58:24,309 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:58:24,309 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 21:58:24,310 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 21:58:24,313 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 21:58:24,313 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:00:20,235 [Worker-140: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:00:20,243 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:00:20,244 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:00:20,245 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:00:20,251 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:00:20,251 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:00:49,954 [Worker-140: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:00:49,958 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:00:49,958 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:00:49,958 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:00:49,964 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:00:49,964 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:01:29,274 [Worker-145: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:01:29,277 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:01:29,278 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:01:29,278 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:01:29,283 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:01:29,283 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:04:13,400 [Worker-140: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:04:13,403 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:04:13,403 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:04:13,403 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:04:13,408 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:04:13,408 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:05:00,956 [Worker-151: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:05:00,958 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:05:00,958 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:05:00,959 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:05:00,964 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:05:00,964 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:07:14,364 [Worker-156: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:07:14,366 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:07:14,367 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:07:14,367 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:07:14,370 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:07:14,370 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:08:02,881 [Worker-159: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:08:02,884 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:08:02,884 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:08:02,884 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:08:02,890 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:08:02,890 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:14:03,999 [Worker-156: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:14:04,002 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:14:04,002 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:14:04,003 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:14:04,006 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:14:04,006 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:17:45,031 [Worker-162: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:17:45,036 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:17:45,036 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:17:45,037 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:17:45,043 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:17:45,043 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:20:26,950 [Worker-162: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:20:26,955 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:20:26,956 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:20:26,956 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:20:26,962 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:20:26,962 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:22:40,161 [Worker-172: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2020-07-24 22:22:40,167 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:22:40,167 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:22:40,168 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:22:40,174 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:22:40,175 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:37:02,128 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-24 22:38:41,373 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:38:41,379 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-24 22:38:41,404 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 31 resources
+2020-07-24 22:38:41,417 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:38:41,418 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:40:58,244 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:40:58,245 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:40:58,246 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:40:58,249 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:40:58,250 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:42:55,603 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:42:55,604 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:42:55,604 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:42:55,610 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:42:55,610 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:44:00,097 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:44:00,098 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:44:00,098 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:44:00,104 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:44:00,104 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:45:29,391 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:45:29,391 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:45:29,391 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:45:29,396 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:45:29,397 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:46:38,882 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:46:38,883 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:46:38,883 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:46:38,887 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:46:38,887 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:47:39,414 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:47:39,414 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:47:39,414 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:47:39,418 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:47:39,418 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:48:52,920 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:48:52,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:48:52,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:48:52,927 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:48:52,928 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:50:06,149 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:50:06,150 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:50:06,150 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:50:06,154 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:50:06,155 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:52:19,008 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:52:19,009 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:52:19,009 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-24 22:52:19,013 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:52:19,013 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:56:28,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:56:28,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:56:28,884 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:56:28,887 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:56:28,887 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:57:52,414 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:57:52,417 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:57:52,418 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:57:52,422 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:57:52,422 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 22:59:27,050 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:59:27,051 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 22:59:27,051 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 22:59:27,055 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 22:59:27,055 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:00:34,159 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:00:34,160 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:00:34,160 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:00:34,165 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:00:34,165 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:07:40,373 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:07:40,373 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:07:40,374 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:07:40,378 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:07:40,379 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:10:05,789 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:10:05,789 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:10:05,789 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:10:05,793 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:10:05,794 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:10:38,298 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:10:38,299 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:10:38,299 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:10:38,305 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:10:38,305 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:11:01,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:01,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:11:01,739 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:11:01,742 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:01,743 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:11:26,839 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:26,840 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:11:26,840 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:11:26,844 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:26,844 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:11:57,078 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:57,078 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:11:57,079 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:11:57,082 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:11:57,082 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:12:24,568 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:12:24,568 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:12:24,568 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:12:24,571 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:12:24,571 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:15:09,290 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:15:09,290 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:15:09,291 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:15:09,295 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:15:09,296 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:16:09,150 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:16:09,150 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:16:09,150 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:16:09,155 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:16:09,155 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:16:45,680 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:16:45,681 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:16:45,681 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:16:45,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:16:45,686 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:17:33,492 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:17:33,493 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:17:33,493 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:17:33,497 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:17:33,498 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:18:55,123 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:18:55,123 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:18:55,125 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:18:55,130 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:18:55,130 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:19:54,829 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:19:54,829 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:19:54,829 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:19:54,832 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:19:54,832 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:22:18,008 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:22:18,009 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:22:18,010 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:22:18,014 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:22:18,014 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:26:19,245 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:26:19,246 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:26:19,246 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:26:19,249 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:26:19,249 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-24 23:29:56,239 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:29:56,239 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-24 23:29:56,240 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-24 23:29:56,256 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-24 23:29:56,256 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 10:49:28,748 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 10:49:28,749 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 10:49:28,749 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 10:49:28,753 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 10:49:28,753 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 10:50:55,864 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 10:50:55,866 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 10:50:55,868 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 10:50:55,872 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 10:50:55,872 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 10:57:22,081 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-25 13:01:51,054 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:01:51,139 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 13:01:51,185 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 13:01:51,215 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:01:51,215 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 13:02:55,872 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:02:55,876 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 13:02:55,877 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 13:02:55,883 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:02:55,884 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 13:03:15,611 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:03:15,611 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 13:03:15,612 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 13:03:15,617 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 13:03:15,617 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:31:28,780 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:31:28,781 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:31:28,782 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:31:28,786 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:31:28,786 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:32:23,532 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:32:23,533 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:32:23,533 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:32:23,539 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:32:23,539 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:37:41,252 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:37:41,252 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:37:41,253 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:37:41,257 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:37:41,257 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:39:25,573 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:39:25,574 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:39:25,574 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:39:25,577 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:39:25,577 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:48:44,678 [Worker-35: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:48:44,679 [Worker-35: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:48:44,680 [Worker-35: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:48:44,691 [Worker-35: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:48:44,693 [Worker-35: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:49:28,431 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:49:28,431 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:49:28,432 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:49:28,436 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:49:28,436 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:49:40,969 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:49:40,969 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:49:40,969 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:49:40,973 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:49:40,973 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:52:15,161 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:52:15,161 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:52:15,162 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:52:15,165 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:52:15,165 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 16:55:39,126 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:55:39,126 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 16:55:39,127 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 16:55:39,131 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 16:55:39,131 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:06:41,936 [Worker-51: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:06:41,937 [Worker-51: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 17:06:41,937 [Worker-51: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 17:06:41,945 [Worker-51: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:06:41,945 [Worker-51: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:08:26,905 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:08:26,905 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 17:08:26,906 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 17:08:26,911 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:08:26,911 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:09:02,218 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:09:02,218 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 17:09:02,219 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 17:09:02,223 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:09:02,223 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:10:59,066 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:10:59,066 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 17:10:59,066 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 17:10:59,071 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:10:59,071 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:14:47,208 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:14:47,218 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 17:14:47,237 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 17:14:47,241 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:14:47,241 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:25:57,358 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:25:57,366 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 17:25:57,402 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 17:25:57,409 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:25:57,410 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 17:27:25,139 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:27:25,143 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 17:27:25,152 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 17:27:25,158 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 17:27:25,158 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:12:14,825 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:12:14,837 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:12:14,851 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:12:14,854 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:12:14,855 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:17:12,401 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:17:12,403 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:17:12,413 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:17:12,419 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:17:12,419 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:19:48,581 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:19:48,586 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:19:48,598 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:19:48,606 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:19:48,607 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:20:53,047 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:20:53,051 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:20:53,058 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:20:53,061 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:20:53,061 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:22:51,612 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-25 21:24:42,624 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:24:42,624 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:24:42,655 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:24:42,671 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:24:42,671 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:35:04,255 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:35:04,255 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 21:35:04,255 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 21:35:04,255 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:35:04,255 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:37:20,445 [Worker-16: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:37:20,446 [Worker-16: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 21:37:20,447 [Worker-16: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 21:37:20,456 [Worker-16: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:37:20,456 [Worker-16: Launching MakeupApp - MakeupAppApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:45:44,757 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:45:44,764 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:45:44,777 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:45:44,784 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:45:44,784 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:48:14,334 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:48:14,337 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 21:48:14,344 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 21:48:14,349 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:48:14,349 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 21:59:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:59:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 21:59:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-25 21:59:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 21:59:06,819 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:00:39,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:00:39,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:00:39,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-25 22:00:39,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:00:39,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:03:09,410 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:03:09,410 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:03:09,426 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:03:09,433 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:03:09,433 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:04:04,408 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:04:04,420 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 22:04:04,441 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 22:04:04,451 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:04:04,451 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:04:54,495 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:04:54,495 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 22:04:54,511 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2020-07-25 22:04:54,511 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:04:54,517 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:12:59,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:12:59,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:12:59,347 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:12:59,351 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:12:59,351 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:13:23,169 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:23,169 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:13:23,169 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:13:23,169 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:23,169 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:13:30,284 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:30,284 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:13:30,284 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:13:30,284 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:30,284 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:13:42,606 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:42,606 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:13:42,606 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:13:42,606 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:13:42,606 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:14:44,233 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:14:44,250 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:14:44,250 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-25 22:14:44,266 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:14:44,266 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:15:55,295 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:15:55,295 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:15:55,295 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-07-25 22:15:55,310 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:15:55,310 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:16:44,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:16:44,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:16:44,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:16:44,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:16:44,434 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:17:06,914 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:06,914 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:17:06,914 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:17:06,929 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:06,929 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:17:12,389 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:12,389 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:17:12,389 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:17:12,389 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:12,389 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:17:38,785 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:38,785 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:17:38,785 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:17:38,785 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:17:38,785 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:18:17,763 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:18:17,763 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:18:17,763 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:18:17,763 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:18:17,763 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:23:05,586 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:23:05,586 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 22:23:05,602 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2020-07-25 22:23:05,602 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:23:05,602 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:23:23,453 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:23:23,453 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-07-25 22:23:23,468 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2020-07-25 22:23:23,468 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:23:23,468 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-25 22:25:22,640 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:25:22,640 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-25 22:25:22,640 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-25 22:25:22,640 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-25 22:25:22,640 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Laven\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\MakeupApp\src\test\resources
+2020-07-26 10:51:53,534 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-26 10:51:53,549 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources

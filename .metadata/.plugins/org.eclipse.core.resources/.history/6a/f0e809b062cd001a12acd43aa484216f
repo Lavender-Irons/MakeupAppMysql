@@ -1,0 +1,65 @@
+package info.lavenderdawn.controller;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import info.lavenderdawn.entities.Collection;
+import info.lavenderdawn.services.CollectionService;
+
+@Controller
+@RequestMapping("/collections")
+public class CollectionController {
+
+	@Autowired
+	CollectionService collectionService;
+	
+	@GetMapping
+	public String displayCollections(Model model) {
+		
+		Iterable<Collection> collections = collectionService.getAll();
+		model.addAttribute("collections", collections);
+		
+		return "collections/list-collections";
+	}
+	
+	@GetMapping("/new")
+	public String displayCollectionForm(Model model) {
+		
+		Collection aCollection = new Collection();
+		model.addAttribute("collection", aCollection);
+		
+		return "collections/new-collection";
+	}
+	
+	@PostMapping("/save")
+	public String createCollection (Collection collection, Model model) {
+		
+		collectionService.save(collection);
+		
+		return "redirect:/collections";
+	}
+	
+//	@GetMapping("/update")
+//	public String displayCollectionUpdateForm(@RequestParam("id")long theId, Model model) {
+//		
+//		Collection theCol = collectionService.findByCollectionId(theId);
+//		model.addAttribute("collection", theCol);
+//		
+//		return "collections/new-collection";
+//	}
+//	
+//	@GetMapping("delete")
+//	public String deleteCollection(@RequestParam("id") long theId, Model model) {
+//		
+//		Collection theCol = collectionService.findByCollectionId(theId);
+//		collectionService.delete(theCol);
+//		
+//		return "redirect:/collections";
+//	}
+}
