@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+<style>
+	body{
+		background-image: url('/image/add.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+	<div class="container">
+		<h3>Collection List</h3>
+		<hr>
+		
+		<a th:href="@{/collections/new}"
+			class="btn btn-primary btn-sm mb-3">
+			New Collection
+		</a>
+		
+		<table class="table table-bordered table-striped">
+			<thead class="thead-dark">
+				<tr>
+					<th>Category</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="aCollection : ${collections}">
+					<td th:text="${aCollection.category}"/>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
