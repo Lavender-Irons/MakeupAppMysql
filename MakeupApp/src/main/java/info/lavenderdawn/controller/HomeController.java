@@ -1,5 +1,6 @@
 package info.lavenderdawn.controller;
 
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,5 +31,13 @@ public class HomeController {
 		return "main/home";
 	}
 	
-}
+	 @GetMapping("/login")
+	    public String login(Model model) {
+	        return "login";
+	    }
 
+	    @GetMapping("/user")
+	    public String userIndex() {
+	        return "user/index";
+	    }
+}

@@ -3,6 +3,7 @@ package info.lavenderdawn.entities;
 import java.util.List;
 
 import javax.persistence.CascadeType;
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
@@ -11,36 +12,45 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
+import javax.persistence.Table;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 
-
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity
+@Table(name="collection")
 public class Collection {
 
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private Long collectionId;
-	private String category; 
+	@GeneratedValue(strategy=GenerationType.SEQUENCE)
+	@Column(name="collection_id")
+	private long collectionId;
 	
+	@NotNull
+	@Size(min=1, max=50)
+	@Column(unique=true)
+	private String category;
 	
-	@ManyToMany(cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST},
-			   fetch = FetchType.LAZY)
+	@ManyToMany(cascade= {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST},
+			fetch = FetchType.LAZY)
 	@JoinTable(name="collection_product",
-	joinColumns=@JoinColumn(name="collection_id"),
-	inverseJoinColumns= @JoinColumn(name="product_id") 
-
-			)
-	private List<Product>products;
+			joinColumns=@JoinColumn(name="collection_id"),
+			inverseJoinColumns=@JoinColumn(name="product_id") 
+	)
+	@JsonIgnore
+	private List<Collection>collections;
+	
 	
 	public Collection() {
 		
 	}
 
-	public Long getCollectionId() {
+	public long getCollectionId() {
 		return collectionId;
 	}
 
-	public void setCollectionId(Long collectionId) {
+	public void setCollectionId(long collectionId) {
 		this.collectionId = collectionId;
 	}
 
@@ -52,20 +62,25 @@ public class Collection {
 		this.category = category;
 	}
 
-	public List<Product> getProducts() {
-		return products;
+	public List<Collection> getCollections() {
+		return collections;
 	}
 
-	public void setProducts(List<Product> products) {
-		this.products = products;
+	public void setCollections(List<Collection> collections) {
+		this.collections = collections;
 	}
 
-	public Collection(String category, List<Product> products) {
+	public Collection(String category, List<Collection> collections) {
 		super();
 		this.category = category;
-		this.products = products;
+		this.collections = collections;
 	}
 
-
-		
+	@Override
+	public String toString() {
+		return "Collection [collectionId=" + collectionId + ", category=" + category + ", collections=" + collections
+				+ "]";
+	}
+	
+	
 }

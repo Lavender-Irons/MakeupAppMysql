@@ -1,18 +1,15 @@
 package info.lavenderdawn.dao;
 
-import java.util.List;
-
 import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
 import info.lavenderdawn.entities.Collection;
 
+@RepositoryRestResource(collectionResourceRel="apicollection", path="apicollections")
 public interface CollectionRepository extends CrudRepository<Collection, Long>{
-		
 	
-	@Override
-	public List<Collection>findAll();
 	
+
 	public Collection findByCollectionId(long theId);
 
 }
-

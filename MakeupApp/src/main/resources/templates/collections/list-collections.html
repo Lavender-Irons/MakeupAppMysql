@@ -7,37 +7,43 @@
 <body>
 <style>
 	body{
-		background-image: url('/image/contact.jpg');
+		background-image: url('/image/add.jpg');
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-	</style>
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
 <nav th:replace="layouts :: navbar"></nav>
-	
-	<br>
-	
+
+
+<br>
 	<div class="container">
-		<h3>Category Directory</h3>
+		<h3>Collection List</h3>
 		<hr>
 		
-		<!-- add new category button -->
-		<a th:href="@{collections/new}"
+		<a th:href="@{/collections/new}"
 			class="btn btn-primary btn-sm mb-3">
-			Add Category
+			New Collection
 		</a>
-		<br>
+		
 		<table class="table table-bordered table-striped">
-				<thead class="thead-dark">
-					<tr>
-						<th>Category Name</th>
-					</tr>
-				</thead>
+			<thead class="thead-dark">
+				<tr>
+					<th>Category</th>
+				</tr>
+			</thead>
 			<tbody>
 				<tr th:each="aCollection : ${collections}">
 					<td th:text="${aCollection.category}"/>
 				</tr>
 			</tbody>
-		</table>	
+		</table>
 	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 </html>

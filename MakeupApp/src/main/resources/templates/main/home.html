@@ -4,19 +4,26 @@
 
 <head th:replace="layouts :: header"></head>
 
-	<nav th:replace="layouts :: navbar"></nav>
-	
-	
 <body>
-	<style>
+<style>
 	body{
 		background-image: url('/image/home.jpg');
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-	</style>
-	<br>
-	<h3>Main Dashboard</h3>
+	h3, h4{
+		color:white;
+	}
+	
+	td, tr{
+		font-size: 130%;
+	}
+</style>
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+     <h3>Main Dashboard</h3>
 	
 		<hr>
 
@@ -24,7 +31,6 @@
 	<div class="container">
 		<h4> Current Products </h4>
 		<div class="row">
-			<div class="col-md-6">
 				<table class="table table-bordered table-striped">
 					<thead class="thead-dark">
 								<tr> 
@@ -36,6 +42,7 @@
 									<th>Amount</th>
 									<th>Rating</th>
 								</tr>
+							
 					</thead>
 					<tbody>
 						<tr th:each="aCollectionProducts : ${CollectionProduct}">
@@ -52,6 +59,6 @@
 			</div>
 		</div>
 	</div>	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
-
 </html>

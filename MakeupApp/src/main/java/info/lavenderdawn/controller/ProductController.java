@@ -1,5 +1,6 @@
 package info.lavenderdawn.controller;
 
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,7 +30,7 @@ public class ProductController {
 	@GetMapping
 	public String displayProducts(Model model) {
 		
-		List<Product> products = productService.getAll();
+		Iterable<Product> products = productService.getAll();
 		model.addAttribute("products", products);
 		
 		return "products/list-products";
@@ -56,17 +57,6 @@ public class ProductController {
 		return "redirect:/products";
 	}
 	
-		@GetMapping("/update")
-		public String displayProductUpdateForm(@RequestParam("id") long theId, Model model) {
-			
-			Product thePro = productService.findByProductId(theId);
-			
-			model.addAttribute("product", thePro);
-			
-			
-			return "products/new-product";
-		}
-		
 		@GetMapping("delete")
 		public String deleteProduct(@RequestParam("id") long theId, Model model) {
 			Product thePro = productService.findByProductId(theId);
@@ -75,4 +65,3 @@ public class ProductController {
 		}
 
 }
-	

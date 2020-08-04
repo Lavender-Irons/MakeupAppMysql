@@ -5,43 +5,36 @@
 <head th:replace="layouts :: header"></head>
 
 <body>
-	<style>
+<style>
 	body{
-		background-image: url('/image/eyeshawdow.jpg');
+		background-image: url('/image/register.jpg');
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-	</style>
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
 <nav th:replace="layouts :: navbar"></nav>
-	<br>
 
-    <div class="container">
-        <form th:action="@{/collections/save}" th:object="${collection}" method="post">
-        
-            <div class="form-group row">
-            	<input type="text" placeholder="Category" th:field="${collection.category}">
-            </div>
-            
-            
-            <button class="btn btn-info col-2" type="submit">Create Category</button>
-        </form>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-    </div>
+
+<br>
+	<div class="container">
+		<form th:action="@{/collections/save}" th:object="${collection}" method="post">
+		
+		<div class="form-group row">
+			<input type="text" placeholder="Category Name" th:field="${collection.category}">
+		
+		</div>
+		
+		<button class="btn btn-info col-2" type="submit">Enter Category</button>
+		
+		</form>
 	
-	
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 </body>
 </html>
