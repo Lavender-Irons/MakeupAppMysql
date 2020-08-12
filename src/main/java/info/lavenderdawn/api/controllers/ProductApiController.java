@@ -67,7 +67,7 @@ public class ProductApiController {
 		if(patchProduct.getCost() != 0) {
 			pro.setCost(patchProduct.getCost());
 		}
-		if(patchProduct.getAmount() != 0) {
+		if(patchProduct.getAmount() !=0) {
 			pro.setAmount(patchProduct.getAmount());
 		}
 		if(patchProduct.getRating() != 0) {

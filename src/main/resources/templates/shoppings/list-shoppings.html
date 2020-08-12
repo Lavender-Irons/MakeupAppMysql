@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+
+<head th:replace="layouts :: header"></head>
+
+
+<body>
+<style>
+	body{
+		background-image: url('/image/wishlist.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+	
+	.list-group .list-group-item.disabled {
+                	cursor: default;
+                	text-decoration: line-through;
+            	}
+	
+
+
+</style>
+
+
+<script> 
+
+         
+</script>  
+
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+
+	<div class="container">
+		<div class="purchased">
+		<h3>Shopping List</h3>
+		<hr>
+		
+			<!-- New list button -->
+			<a th:href="@{/shoppings/new}"
+				class ="btn btn-primary btn-sm mb-3">
+				New Item
+			</a>
+			
+			<table class="table table-bordered table-striped">
+				<thead class="thead-dark">
+					<tr>
+						<th>Category</th>
+						<th>Name</th>
+						<th>Brand</th>
+						<th>Color</th>
+						<th>Cost</th>
+						<th>Amount</th>
+						<th>Date Bought</th>
+						<th>Purchased?</th>	
+					</tr>
+				</thead>
+				<tbody>
+					<tr th:each="aShopping : ${shoppings}">
+						<td th:text="${aShopping.category}"/>
+						<td th:text="${aShopping.name}"/>
+						<td th:text="${aShopping.brand}"/>
+						<td th:text="${aShopping.color}"/>
+						<td th:text="${aShopping.cost}"/>
+						<td th:text="${aShopping.amount}"/>
+						<td th:text="${aShopping.bought}"/>
+						<td>
+						<a th:href="@{/shoppings/purchased(id=${aShopping.shoppingId})}"
+							class = "btn btn-secondary"
+							onClick="if(!(confirm(Did you purchase this item?"))) return>
+							purchased
+						
+						
+						</a>
+					</tr> 
+					
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
+	

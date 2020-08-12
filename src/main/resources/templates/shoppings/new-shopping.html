@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+<style>
+	body{
+		background-image: url('/image/wishlist.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+	<div class="container">
+		<form th:action="@{/shoppings/save}" th:object="${shopping}" method="POST">
+			
+			<div class="form-group row">
+				<select th:field="${shopping.category}">
+					<option th:value="primer">primer</option>
+					<option th:value="foundation">foundation</option>
+					<option th:value="eyeshadow">eye shadow</option>
+					<option th:value="eyeliner">eyeliner</option>
+					<option th:value="mascara">mascara</option>
+					<option th:value="blush">blush</option>
+					<option th:value="lipliner">lipliner</option>
+					<option th:value="lipstick">lipstick</option>
+					<option th:value="powder">Powder</option>
+				</select>
+			</div>
+			
+			<div class="form-group row">
+				<input type="text" placeholder="name" th:field="${shopping.name}">
+				<input type="text" placeholder="brand" th:field="${shopping.brand}">
+				<input type="text" placeholder="color" th:field="${shopping.color}">
+				<input type="text" placeholder="cost" th:field="${shopping.cost}">
+				<input type="text" placeholder="amount" th:field="${shopping.amount}">
+				<input type="text" placeholder="bought" th:field="${shopping.bought}">
+			</div>
+			
+			<button class="btn btn-info col-2" type="submit">Enter Item</button>
+		</form>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>

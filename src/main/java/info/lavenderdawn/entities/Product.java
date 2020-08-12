@@ -39,11 +39,12 @@ public class Product {
 	@Size(min=1, max=50)
 	private String color;
 	
-	private int cost;
+	private double cost;
 	
 	private int amount;
 	
 	private int rating;
+	
 	
 	@ManyToMany(cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST},
 			   fetch = FetchType.LAZY)
@@ -90,11 +91,11 @@ public class Product {
 		this.color = color;
 	}
 
-	public int getCost() {
+	public double getCost() {
 		return cost;
 	}
 
-	public void setCost(int cost) {
+	public void setCost(double cost) {
 		this.cost = cost;
 	}
 
@@ -122,7 +123,8 @@ public class Product {
 		this.collections = collections;
 	}
 
-	public Product(String name, String brand, String color, int cost, int amount, int rating,
+	public Product(@NotNull @Size(min = 1, max = 50) String name, @NotNull @Size(min = 1, max = 50) String brand,
+			@NotNull @Size(min = 1, max = 50) String color, double cost, int amount, int rating,
 			List<Collection> collections) {
 		super();
 		this.name = name;
@@ -139,6 +141,6 @@ public class Product {
 		return "Product [productId=" + productId + ", name=" + name + ", brand=" + brand + ", color=" + color
 				+ ", cost=" + cost + ", amount=" + amount + ", rating=" + rating + ", collections=" + collections + "]";
 	}
-	
+
 	
 }

@@ -29,6 +29,7 @@ public class Collection {
 	
 	@NotNull
 	@Size(min=1, max=50)
+	@Column(unique=true)
 	private String category;
 	
 	@ManyToMany(cascade= {CascadeType.DETACH, CascadeType.MERGE, CascadeType.REFRESH, CascadeType.PERSIST},

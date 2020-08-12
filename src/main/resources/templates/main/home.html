@@ -16,20 +16,22 @@
 	}
 	
 	td, tr{
-		font-size: 130%;
+		font-size: 140%;
 	}
+	
+	
 </style>
 <nav th:replace="layouts :: navbar"></nav>
 
 
 <br>
-     <h3>Main Dashboard</h3>
+     <h3>Current Products</h3>
 	
 		<hr>
 
-	
+	<form>
 	<div class="container">
-		<h4> Current Products </h4>
+		
 		<div class="row">
 				<table class="table table-bordered table-striped">
 					<thead class="thead-dark">
@@ -41,10 +43,12 @@
 									<th>Cost</th>
 									<th>Amount</th>
 									<th>Rating</th>
+								
 								</tr>
 							
 					</thead>
 					<tbody>
+						
 						<tr th:each="aCollectionProducts : ${CollectionProduct}">
 							<td th:text="${aCollectionProducts.category}"/>
 							<td th:text="${aCollectionProducts.name}"/>
@@ -53,11 +57,16 @@
 							<td th:text="${aCollectionProducts.cost}"/>
 							<td th:text="${aCollectionProducts.amount}"/>
 							<td th:text="${aCollectionProducts.rating}"/>
+							
 						</tr>
+						
+						
+						</script>
 					</tbody>
 				</table>
 			</div>
 		</div>
+		</form>
 	</div>	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>

@@ -3,6 +3,7 @@ package info.lavenderdawn.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -40,7 +41,12 @@ public class CollectionController {
 	@PostMapping("/save")
 	public String createCollection (Collection collection, Model model) {
 		
-		collectionService.save(collection);
+		try {
+			collectionService.save(collection);
+		}
+		catch(DataIntegrityViolationException e) {
+			System.out.println("Category already exists!");
+		}
 		
 		return "redirect:/collections";
 	}

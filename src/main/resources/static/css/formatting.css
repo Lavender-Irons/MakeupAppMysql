@@ -17,6 +17,16 @@ tr{
 	color:white;
 }
 
-{
-	background-image: url("image/home.jpg");
+
+
+
+
+input[type=checkbox] {
+    margin-left: 60px;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    bottom: 1px;
 }
+    
+ 

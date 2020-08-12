@@ -1,9 +1,9 @@
 package info.lavenderdawn.controller;
 
-
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -52,12 +52,16 @@ public class ProductController {
 	@PostMapping("/save")
 	public String createProduct(Product product, BindingResult bindingResult, @RequestParam List<Long>collections,  Model model) {
 		
-		productService.save(product);
+		try {
+			productService.save(product);
+		}
+		catch(DataIntegrityViolationException e) {
+			System.out.println("Product already exists!");
+		}
 		
 		return "redirect:/products";
 	}
 	
-		
 		@GetMapping("delete")
 		public String deleteProduct(@RequestParam("id") long theId, Model model) {
 			Product thePro = productService.findByProductId(theId);

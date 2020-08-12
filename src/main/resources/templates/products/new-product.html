@@ -25,7 +25,7 @@
 	<div class="container">
 		
 		<form th:action="@{/products/save}" th:object="${product}" method="POST">
-		
+	
 		<div class="form-group row">
 			<input type="text" placeholder="Name" th:field="${product.name}">
 			<input type="text" placeholder="Brand" th:field="${product.brand}">
