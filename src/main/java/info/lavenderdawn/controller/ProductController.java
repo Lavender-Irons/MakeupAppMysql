@@ -1,9 +1,6 @@
 package info.lavenderdawn.controller;
 
-import java.io.OutputStream;
 import java.util.List;
-
-import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -18,7 +15,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import info.lavenderdawn.entities.Collection;
 import info.lavenderdawn.entities.Product;
-import info.lavenderdawn.entities.ZXingHelper;
 import info.lavenderdawn.services.CollectionService;
 import info.lavenderdawn.services.ProductService;
 
@@ -74,13 +70,5 @@ public class ProductController {
 			return "redirect:/products";
 		}
 
-		@GetMapping(value= "barcode/{id}")
-		public void barcode (@PathVariable("id") String id, HttpServletResponse response) throws Exception {
-			response.setContentType("image/png");
-			OutputStream outputStream = response.getOutputStream();
-			outputStream.write(ZXingHelper.getBarCodeImage(id, 200, 200));
-			outputStream.flush();
-			outputStream.close();
-			
-		}
+
 }

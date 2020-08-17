@@ -1,4 +1,4 @@
-package info.lavenderdawn.entities;
+package info.lavenderdawn.helpers;
 
 import java.io.ByteArrayOutputStream;
 import java.util.Hashtable;
@@ -25,4 +25,5 @@ public class ZXingHelper {
 			return null;
 		}
 	}
+
 }

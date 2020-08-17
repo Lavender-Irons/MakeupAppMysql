@@ -7,11 +7,11 @@
 <body>
 <style>
 	body{
-		background-image: url('/image/home.jpg');
+		background-image: url('/image/welcome.jpg');
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-	h3, h4{
+	h3, h4, h1, h6{
 		color:white;
 	}
 	
@@ -22,52 +22,15 @@
 	
 </style>
 <nav th:replace="layouts :: navbar"></nav>
+<br><br><br><br><br><br>
+<h1>Welcome to My Makeup Inventory</h1>
+<br><br><br>
+<h3>Have you ever been at a store and wanted to get a lipstick that you loved but cannot
+remember the name of the color? On this site, you can store all the information about your 
+makeup. </h3>
 
-
-<br>
-     <h3>Current Products</h3>
-	
-		<hr>
-
-	<form>
-	<div class="container">
-		
-		<div class="row">
-				<table class="table table-bordered table-striped">
-					<thead class="thead-dark">
-								<tr> 
-									<th>Category</th>
-									<th>Name</th>
-									<th>Brand</th>
-									<th>Color</th>
-									<th>Cost</th>
-									<th>Amount</th>
-									<th>Rating</th>
-								
-								</tr>
-							
-					</thead>
-					<tbody>
-						
-						<tr th:each="aCollectionProducts : ${CollectionProduct}">
-							<td th:text="${aCollectionProducts.category}"/>
-							<td th:text="${aCollectionProducts.name}"/>
-							<td th:text="${aCollectionProducts.brand}"/>
-							<td th:text="${aCollectionProducts.color}"/>
-							<td th:text="${aCollectionProducts.cost}"/>
-							<td th:text="${aCollectionProducts.amount}"/>
-							<td th:text="${aCollectionProducts.rating}"/>
-							
-						</tr>
-						
-						
-						</script>
-					</tbody>
-				</table>
-			</div>
-		</div>
-		</form>
-	</div>	
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+<h6>Contact information: lavenderirons@gmail.com</h6>
+<br><br><br>
 </body>
 </html>

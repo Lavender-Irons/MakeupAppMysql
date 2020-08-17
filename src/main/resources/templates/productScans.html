@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+<style>
+<body>
+
+	body{
+		background-image: url('/image/inventoryby.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+	<h3>Product Scan List</h3>
+	<table class="table table-bordered table-striped">
+			<thead class="thead-dark">
+		<tr>
+			<th>Name</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Status</th>
+			<th>BarCode</th>
+		</tr>
+		</thead>
+		<tbody>
+			<tr th:each="aProductScan : ${productScans}">
+				<td th:text="${aProductScan.name }"/>
+				<td th:text="${aProductScan.price }"/>
+				<td th:text="${aProductScan.quantity }"/>
+				<td th:text="${aProductScan.status }"/>
+				<td>
+					<img src="${pageContext.request.contextPath }/productScan/barcode/${productScan.id }" width="200" height="50">
+				</td>
+			</tr>
+		
+		</tbody>
+	</table>
+
+</body>
+</html>

@@ -1,6 +1,5 @@
 package info.lavenderdawn.controller;
 
-
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,30 +12,20 @@ import info.lavenderdawn.dto.CollectionProduct;
 import info.lavenderdawn.services.ProductService;
 
 @Controller
-public class HomeController {
+public class AllProductsController {
 
-	
 	@Autowired
 	ProductRepository productRepository;
 	
 	@Autowired
 	ProductService productService;
 	
-
-	@GetMapping("/")
-	public String listProducts(Model model) {
+	@GetMapping("/allProducts")
+public String listProducts(Model model) {
 		
-		return "main/home";
+		List<CollectionProduct>collectionProducts = productRepository.collectionProducts();
+		model.addAttribute("CollectionProduct", collectionProducts);
+		
+		return "/allProducts";
 	}
-	
-	 
-	 @GetMapping("/login")
-	    public String login(Model model) {
-	        return "login";
-	    }
-
-	    @GetMapping("/user")
-	    public String userIndex() {
-	        return "user/index";
-	    }
 }
