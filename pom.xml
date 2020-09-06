@@ -145,6 +145,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		
+		<finalName>makeup-app</finalName>
 	</build>
 
 </project>

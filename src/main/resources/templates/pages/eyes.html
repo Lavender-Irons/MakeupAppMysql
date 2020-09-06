@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="layouts :: header"></head>
+
+<body>
+<style>
+	body{
+		background-image: url('/image/eyeshadow.jpg');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+	h3, h4{
+		color:white;
+	}
+	td, tr{
+		font-size: 130%;
+	}
+</style>
+<nav th:replace="layouts :: navbar"></nav>
+
+
+<br>
+
+	<div class="container">
+		<h3>Eyes</h3>
+		<hr>
+		
+		<br><br>
+		
+		<table class="table table-bordered table-striped">
+			<thead class="thead-dark">
+				<tr>
+					<th> Category </th>
+					<th> Name </th>
+					<th> Brand </th>
+					<th> Color </th>
+					<th> Cost </th>
+					<th> Amount </th>
+					<th> Rating </th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="aCollectionProducts : ${CollectionProduct}">
+							<td th:text="${aCollectionProducts.category}"/>
+							<td th:text="${aCollectionProducts.name}"/>
+							<td th:text="${aCollectionProducts.brand}"/>
+							<td th:text="${aCollectionProducts.color}"/>
+							<td th:text="${aCollectionProducts.cost}"/>
+							<td th:text="${aCollectionProducts.amount}"/>
+							<td th:text="${aCollectionProducts.rating}"/>
+							
+						</tr>
+		 	</tbody>
+		</table>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>

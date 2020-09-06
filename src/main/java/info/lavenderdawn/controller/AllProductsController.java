@@ -9,23 +9,20 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import info.lavenderdawn.dao.ProductRepository;
 import info.lavenderdawn.dto.CollectionProduct;
-import info.lavenderdawn.services.ProductService;
 
 @Controller
 public class AllProductsController {
 
 	@Autowired
 	ProductRepository productRepository;
-	
-	@Autowired
-	ProductService productService;
+
 	
 	@GetMapping("/allProducts")
-public String listProducts(Model model) {
+	public String listProducts(Model model) {
 		
 		List<CollectionProduct>collectionProducts = productRepository.collectionProducts();
 		model.addAttribute("CollectionProduct", collectionProducts);
 		
-		return "/allProducts";
+		return "pages/allProducts";
 	}
 }
